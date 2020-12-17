@@ -157,7 +157,6 @@ var GoogleAnalyticEnhancedECommerce = {
 			'step': Step
 			//'option':'Visa'
 		});
-		ga('send', 'pageview');
 	},
 
 	addCheckoutOption: function(Step,Option) {
